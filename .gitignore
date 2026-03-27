@@ -30,3 +30,5 @@ mlvpn-*.tar.gz
 tmp/
 
 !buildTools
+
+!.woodpecker
